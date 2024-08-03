@@ -1,6 +1,6 @@
 # 💫 About Me: 
 
-🎓 **Freshgraduate** | Sistem Informasi, Universitas Pendidikan Indonesia<br><br>🌐 **Web Developer** | **Software Quality Engineer** | **Information Systems Technology** | **Deep Learning Enthusiast**<br><br>---<br>
+🎓 **Bachelor's degree** | Sistem Informasi, Universitas Pendidikan Indonesia<br><br>🌐 **Web Developer** | **Software Quality Engineer** | **Information Systems Technology** | **Deep Learning Enthusiast**<br><br>---<br>
 
 ### 🚀 About Me<br><br>I'm a recent graduate with a degree in Information Systems from Universitas Pendidikan Indonesia. I have a passion for technology and a diverse set of skills, including web development, software quality engineering, and information systems technology. I am also exploring the exciting field of deep learning.<br><br>---<br>
 
