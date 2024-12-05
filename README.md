@@ -26,6 +26,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FarazHerviansyah&limit=5&theme=outrun&combine_all_yearly_contributions=true)
 
+### Roadmap
+[![roadmap.sh](https://roadmap.sh/card/wide/65c47ae9323fd6becf154a0a?variant=dark)](https://roadmap.sh)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=FarazHerviansyah&icon=0&color=2)](https://visitcount.itsvg.in)
 
