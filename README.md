@@ -32,6 +32,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FarazHerviansyah&icon=0&color=2)](https://visitcount.itsvg.in)
 
-### 📫 Get in Touch<br><br>- **LinkedIn**: [Faraz Herviansyah](https://www.linkedin.com/in/farazherviansyah)<br>- **Email**: [farazherviansyah95@gmail.com](mailto:farazherviansyah95@gmail.com)<br><br>Let's connect and collaborate on exciting tech projects!<br>Thank you for visiting my GitHub profile! 😊<br>
+### 📫 Get in Touch<br><br>- **LinkedIn**: [Faraz Herviansyah](https://www.linkedin.com/in/farazherviansyah)<br>- **Email**: [farazherviansyah95@gmail.com](mailto:farazherviansyah95@gmail.com)<br><br>Let's connect and collaborate on exciting tech projects! Let's connect outside the tech project too<br>- **Strava**: <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/164343491' target="_clean">
+  Ikuti saya di
+  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a><br>Thank you for visiting my GitHub profile! 😊<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
